@@ -4,14 +4,14 @@
 name='İBRAHİM OĞUZHAN ÇERİBAŞI'
 echo SİZİN İÇİN GÜNCELLEMELERİ BAŞLATIYORUM
 sleep 2
-apt-get update -y #repo güncellemesi
+sudo apt-get update -y #repo güncellemesi
 echo REPO GÜNCELLEMESİ BİTTİ SİSTEM GÜNCELLEMESİNE GEÇİYORUM #ekrana yazıdır
 sleep 3 #3 saniye daha bekle
-apt-get upgrade -y #sistem güncellemesi
+sudo apt-get upgrade -y #sistem güncellemesi
 sleep 2 #2 saniye daha bekle
 echo SİSTEM GÜNCELLEMESİ BİTTİ,SÜRÜM GÜNCELLEMESİNE GEÇİYORUM #ekrana yazdır
 sleep 2
-apt-get dist-upgrade -y #sürüm güncellemesi
+sudo apt-get dist-upgrade -y #sürüm güncellemesi
 echo '                           '
 echo '                           '
 sleep 2
