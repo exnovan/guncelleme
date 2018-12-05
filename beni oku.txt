@@ -1,4 +1,0 @@
-Bulunduğunuz klasörde uçbirimi açın 
-Tüm izinleri verin (chmod +x güncelleme.sh)
-çalıştırın (./güncelleme.sh)
-
