@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-#deneme kodlama
+#Güncelleme kodlama
 #05/12/2018
 name='İBRAHİM OĞUZHAN ÇERİBAŞI'
 echo SİZİN İÇİN GÜNCELLEMELERİ BAŞLATIYORUM
