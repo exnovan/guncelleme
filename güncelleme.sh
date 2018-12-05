@@ -1,4 +1,5 @@
 #!/usr/bin/bash
+#!/bin/bash
 #Güncelleme kodlama
 #05/12/2018
 name='İBRAHİM OĞUZHAN ÇERİBAŞI'
